@@ -36,15 +36,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ixrp)
 
 Discord: truen
-
-<a href="https://discord.gg/ixrp">
-  <img src="https://discordapp.com/api/guilds/1043296038913585152/widget.png?style=banner2" alt="Discord Banner 2"/>
-</a>
-
-## 🎵 Şu Anda Dinlediğim
-
-[![Spotify](https://novatorem-iota-sandy.vercel.app/api/spotify)](https://open.spotify.com/user/315s4ggmy4s5bbry6z4ac2wk6c7u)
-
 ---
 
 <p align="center">
