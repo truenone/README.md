@@ -1,9 +1,5 @@
 # 👋 Merhaba, ben Truen!
 
-<p align="center">
-  <img src="https://your-image-url-here.com/your-profile-image.png" alt="Profil Resmi" width="200" height="200">
-</p>
-
 ## 🚀 Hakkımda
 
 - 🖥️ Full-stack geliştirici olarak çalışıyorum
